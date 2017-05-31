@@ -1,5 +1,8 @@
 # SOON!
 <img src="https://s17.postimg.org/nhppuyoa7/IMG_20170521_152829.png" />
 
+# Tools & Technologies
+Firebase Authentication, Firebase Real-time Database, Push Notifications, Location Providers, Google Maps API
+
 # License
 See <a href= "https://github.com/Mai-CS/android_abone_app/blob/master/LICENSE"> License </a>
