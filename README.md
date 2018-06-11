@@ -1,5 +1,5 @@
- Uber clone app but for bus/microbus drivers</br></br>
-<https://image.ibb.co/gh98So/screener_1495791616638.png" />
+An app that let riders communicate with bus/microbus drivers to book a trip.</br></br>
+<img src="https://image.ibb.co/gh98So/screener_1495791616638.png"/>
 
 # Tools & Technologies
 Firebase Authentication, Firebase Real-time Database, Push Notifications, Location Providers, Google Maps API
