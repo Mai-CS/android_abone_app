@@ -1,5 +1,5 @@
 An app that let riders communicate with bus/microbus drivers to book a trip.</br></br>
-<img src="https://image.ibb.co/gh98So/screener_1495791616638.png"/>
+<img src="https://image.ibb.co/gh98So/screener_1495791616638.png" width="50%" height="50%"/>
 
 # Tools & Technologies
 Firebase Authentication, Firebase Real-time Database, Push Notifications, Location Providers, Google Maps API
