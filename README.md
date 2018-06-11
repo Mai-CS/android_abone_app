@@ -1,4 +1,4 @@
-An app that let riders communicate with bus/microbus drivers to book a trip.</br></br>
+An app that allows riders to communicate with bus/microbus drivers to book a trip
 <img src="https://image.ibb.co/gh98So/screener_1495791616638.png" width="50%" height="50%"/>
 
 # Tools & Technologies
